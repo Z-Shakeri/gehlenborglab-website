@@ -1,9 +1,11 @@
 ---
 name: Discovery
+active: true
 
 members:
   - drashko-nakikj
-  - nils-gehlenborg  
+  - nils-gehlenborg
+  - karan-luthria 
 
 collaborators:
   - david-kreda

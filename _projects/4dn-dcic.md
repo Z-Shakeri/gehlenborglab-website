@@ -1,5 +1,6 @@
 ---
 name: 4D Nucleome Data Portal
+active: true
 
 members:
   - nils-gehlenborg
@@ -14,10 +15,12 @@ collaborators:
 websites:
   - name: 4D Nucleome Data Portal
     url: https://data.4dnucleome.org
+    primary: true
 
 github_repositories:
   - name: 4DN Repos
     url: https://github.com/4dn-dcic
+    primary: true
 
 grants:
   - nih_u01ca200059

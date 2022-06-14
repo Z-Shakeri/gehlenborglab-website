@@ -1,5 +1,6 @@
 ---
 name: Vitessce
+active: true
 
 members:
   - nils-gehlenborg
@@ -18,16 +19,22 @@ websites:
   - name: Vitessce
     description:
     url: http://vitessce.io
+    primary: true
 
 github_repositories:
-  - name: Vitessce
+  - name: vitessce
     description:
-    url: https://github.com/hubmapconsortium/vitessce
-  - name: Vitessce Data
+    url: https://github.com/vitessce/vitessce
+    primary: true
+  - name: vitessce-python
     description:
-    url: https://github.com/hms-dbmi/vitessce-data
+    url: https://github.com/vitessce/vitessce-python
+  - name: vitessceR
+    description:
+    url: https://github.com/vitessce/vitessceR
 
 publications:
+  - keller-2021-vitessce-osf
   - hubmap-2019-nature
 
 grants:

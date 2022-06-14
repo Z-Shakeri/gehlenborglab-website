@@ -1,5 +1,6 @@
 ---
 name: tableschema-to-template
+active: true
 
 members:
   - chuck-mccallum
@@ -8,11 +9,13 @@ websites:
   - name: tableschema-to-template
     description:
     url: https://pypi.org/project/tableschema-to-template/
+    primary: true
 
 github_repositories:
   - name: tableschema-to-template
     description:
     url: https://github.com/hubmapconsortium/tableschema-to-template
+    primary: true
 
 grants:
   - nih_1Ot2Od026677

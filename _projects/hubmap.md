@@ -1,5 +1,6 @@
 ---
 name: HuBMAP Data Portal
+active: true
 
 members:
   - nils-gehlenborg
@@ -20,12 +21,14 @@ collaborators:
 
 publications:
   - manz-2020-osfpreprint
+  - keller-2021-vitessce-osf
   - hubmap-2019-nature
 
 websites:
   - name: HuBMAP Data Portal
     description: The data portal for the HuBMAP Project.
     url: https://portal.hubmapconsortium.org
+    primary: true
   - name: Vitessce Website
     description: Website for the Vitessce visualization tool.
     url: http://vitessce.io
@@ -40,12 +43,13 @@ github_repositories:
   - name: HuBMAP Portal User Interface
     description:
     url: https://github.com/hubmapconsortium/portal-ui
+    primary: true
   - name: HuBMAP Metadata Validation
     description: 
     url: https://github.com/hubmapconsortium/ingest-validation-tools
   - name: Vitessce Source Code
     description:
-    url: https://github.com/hubmapconsortium/vitessce
+    url: https://github.com/vitessce/vitessce
 
 gallery:
   hubmap-data-portal.png: ''

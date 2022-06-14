@@ -1,10 +1,12 @@
 ---
 name: Data-Driven Visual Consent
+active: true
 
 members:
   - nils-gehlenborg
   - undina-gisladottir
   - drashko-nakikj
+  - karan-luthria
 
 collaborators:
   - gabriel-brat

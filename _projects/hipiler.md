@@ -1,5 +1,6 @@
 ---
 name: HiPiler
+active: true
 
 members:
   - fritz-lekschas
@@ -15,11 +16,13 @@ publications:
 websites:
   - name: HiPiler Demo
     url: http://hipiler.higlass.io/
+    primary: true
 
 github_repositories:
   - name: HiPiler Application
     description:
     url: https://github.com/flekschas/hipiler
+    primary: true
   - name: Clodius
     description: A tool to tile 1D and 2D genomic data sets for use with HiGlass and HiPiler.
     url: https://github.com/hms-dbmi/clodius

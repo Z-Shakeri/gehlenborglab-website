@@ -1,5 +1,6 @@
 ---
 name: Refinery Platform
+active: false
 
 members:
   - nils-gehlenborg
@@ -20,11 +21,13 @@ websites:
   - name: Refinery Platform Project
     description:
     url: http://www.refinery-platform.org
+    primary: true
 
 github_repositories:
   - name: Refinery Platform
     description:
     url: https://github.com/refinery-platform/refinery-platform
+    primary: true
 
 grants:
   - nih_k99hg007583

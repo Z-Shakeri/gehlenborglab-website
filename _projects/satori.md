@@ -1,5 +1,6 @@
 ---
 name: SATORI
+active: true
 
 members:
   - fritz-lekschas
@@ -12,6 +13,7 @@ websites:
   - name: SATORI Project
     description: 
     url: http://satori.refinery-platform.org/
+    primary: true
   - name: SATORI Demo Server
     description: 
     url: http://satori.cloud.refinery-platform.org/#/

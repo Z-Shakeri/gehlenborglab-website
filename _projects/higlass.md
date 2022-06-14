@@ -1,5 +1,6 @@
 ---
 name: HiGlass
+active: true
 
 members:
   - peter-kerpedjiev
@@ -34,6 +35,7 @@ websites:
   - name: HiGlass Demo Site
     description: Website demonstrating the capabilities of HiGlass.
     url: http://higlass.io
+    primary: true
   - name: HiGlass Documentation
     description: User and developer documentations for HiGlass.
     url: http://docs.higlass.io/
@@ -42,6 +44,7 @@ github_repositories:
   - name: HiGlass Client
     description:
     url: https://github.com/hms-dbmi/higlass
+    primary: true
   - name: HiGlass Server
     description:
     url: https://github.com/hms-dbmi/higlass-server

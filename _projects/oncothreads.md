@@ -1,5 +1,6 @@
 ---
 name: OncoThreads
+active: true
 
 members:
   - sabrina-nusrat
@@ -13,11 +14,13 @@ collaborators:
 websites:
   - name: Demo
     url: http://oncothreads.gehlenborglab.org/
+    primary: true
 
 github_repositories:
   - name: OncoThreads
     description: Repository for the current version of OncoThreads
     url: https://github.com/hms-dbmi/OncoThreads
+    primary: true
 
 docker_repositories:
 

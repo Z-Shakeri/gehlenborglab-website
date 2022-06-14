@@ -1,5 +1,6 @@
 ---
 name: django-docker-engine
+active: true
 
 members:
   - chuck-mccallum
@@ -10,6 +11,7 @@ github_repositories:
   - name: django-docker-engine
     description:
     url: https://github.com/refinery-platform/django_docker_engine
+    primary: true
 
 gallery:
   django-docker.png: 'Components of django_docker_engine'

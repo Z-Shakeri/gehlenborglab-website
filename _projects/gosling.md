@@ -1,25 +1,33 @@
 ---
 name: Gosling
+active: true
 
 members:
   - sehi-lyi
   - qianwen-wang
   - fritz-lekschas
   - cynthia-rosas
+  - trevor-manz
   - nils-gehlenborg
 
 websites:
-  - name: Gosling.js
-    description: Online Editor and Examples
+  - name: Documentation
+    description: Documentation, Tutorials, and Examples
+    url: http://gosling-lang.org/
+    primary: true
+  - name: Gosling Editor
+    description: Online Editor with Interactive Examples
     url: https://gosling.js.org/
+    primary: true
 
 github_repositories:
   - name: Gosling.js
-    description:
+    description: JavaScript Library
     url: https://github.com/gosling-lang/gosling.js
-  - name: Documentation
-    description: 
-    url: https://github.com/gosling-lang/gosling-docs
+    primary: true
+  - name: Gos
+    description: Python Library
+    url: https://github.com/gosling-lang/gos
 
 publications:
   - lyi-2021-gosling-osf
